@@ -34,10 +34,23 @@
 - Dual wield：双持
 - Sneaking：潜行
 - Sprinting：疾跑
+- Item durability：物品耐久
+- Durability：耐久/耐久度
+- Experience Level：经验等级
+- Experience Point/EXP/XP：经验值
+- Experience：经验
+- Oxygen/Air：氧气值
 - Ore Dictionary(OreDict)：矿物词典
+- Coordinates：坐标
 - Tag：标签
+- Named Binary Tag/NBT：NBT/NBT格式
+- Data Values：数据值
+- Target Selector：目标选择器
 - Feature（地形特征）：地物
+- Advancement：进度
+- Achievement：成就
 - Particle：粒子
+- Glint：光效
 - Command：命令
 - Toast：弹窗
 - Actionbar：动作栏
@@ -52,6 +65,8 @@
 - Item：物品
 - Tools：工具
 - GUI/Gui：GUI
+- HUD：HUD
+- Creative Inventory：创造模式物品栏
 - Creative Tab：创造标签页
 - Mob：生物
 - Monster：怪物
@@ -84,15 +99,19 @@
 - Current：电流
 - Voltage：电压
 - Bookmark：书签
-- Slot：格子
+- Slot：槽位
 - Grid：网格
 - Setting：设置
 - Option：选项
-- Configuration：配置
+- Debug screen：调试屏幕
+- Config/Configuration：配置
+- Mk：型
 - Mode：模式
 - Input：输入，原料
 - Output：输出，产物
 - Redstone Signal：红石信号
+- Modifier（TiC系）：强化
+- Rotational Force（Create）：旋转力
 - Energy（IC系，电）：电量
 - Energy：能量
 - Tick（名词）：刻
@@ -109,6 +128,8 @@
 - Resource Pack：资源包
 - Data Pack：数据包
 - Texture Pack：纹理包
+- Loot table：战利品表
+- Splash：闪烁标语
 
 ## 动词相关
 
@@ -161,6 +182,10 @@
 
 ## 物品/方块
 
+- Warped：诡异
+    - Warped <>：(?)诡异木<>
+- Crimson：绯红
+    - Crimson <>：(?)绯红木<>
 - Lava：熔岩（在1.10中译名已经改为“熔岩”而不是“岩浆”）
 - Steam：蒸汽
 - Ender：末影
@@ -174,7 +199,7 @@
 - Wood Planks：木板
 	- Oak Wood Planks：橡木木板
 - Slab：台阶
-	- Stone Slab：石台阶
+	- Stone Slab：石头台阶
 - Stairs：楼梯
 	- Nether Brick Stairs：地狱砖楼梯
 - Door：门
@@ -205,6 +230,7 @@
 	- Copper Nugget：铜粒
 - Shard：碎片
 	- Diamond Shard：钻石碎片
+- Fragment：残片
 - Cable：(?)线缆
 	- Copper Cable：铜线缆
 	- Insulated：绝缘
@@ -232,6 +258,8 @@
 - Plate：板
 	- Copper Plate：铜板
 	- Dense Copper Plate：致密铜板
+- Gear：齿轮
+- Coin：币
 - Rune：符文
 	- Rune of Fire：火之符文
 - Helmet：头盔
@@ -441,4 +469,4 @@
 - Hot Frying Oil：热煎炸油
 - Platinum Group Sludge：铂系金属沉积泥
 
-##WIP
+## WIP
