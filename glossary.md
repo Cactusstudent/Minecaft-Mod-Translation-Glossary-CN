@@ -56,6 +56,7 @@
 - Actionbar：动作栏
 - Client：客户端
 - Server：服务端，服务器
+- Realm：Realm/领域服
 - Main Hand：主手
 - Off Hand：副手
 
@@ -115,8 +116,6 @@
 - Energy（IC系，电）：电量
 - Energy：能量
 - Tick（名词）：刻
-	- `Stopped debug profiling after %.2f seconds (%d ticks)`
-	- `在 %.2f 秒（%d 刻）后停止调试分析`
 - Stack（量词）：组
 - Stack（动词）：堆叠
 - Bug：漏洞

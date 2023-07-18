@@ -41,5 +41,72 @@ Toast	弹窗
 Actionbar	动作栏
 Client	客户端
 Server	服务端，服务器
+Realm	Realm/领域服
 Main Hand	主手
 Off Hand	副手
+Block	方块
+Item	物品
+Tools	工具
+GUI/Gui	GUI
+HUD	HUD
+Creative Inventory	创造模式物品栏
+Creative Tab	创造标签页
+Mob	生物
+Monster	怪物
+Entity	实体
+Player	玩家
+Machine	机器
+Solid	固体
+Liquid	液体
+Gas	气体
+Fluid	流体
+Equipment	装备
+Spawn	生成
+Overworld	主世界
+Nether	下界
+End	末地
+Dimension	维度
+Biome	生物群系
+Chunk	区块
+Void	虚空
+Inventory（玩家，生物）	物品栏
+Inventory（机器）	物品缓存
+Potion	药水
+Effect	效果
+Enchantment（名词）	魔咒
+Enchantment（Enchant的名词）	附魔
+Enchantability	可附魔性
+Level	等级
+Fuel	燃料
+Damage value	损害值
+Current	电流
+Voltage	电压
+Bookmark	书签
+Slot	槽位
+Grid	网格
+Setting	设置
+Option	选项
+Debug screen	调试屏幕
+Config/Configuration	配置
+Mk	型
+Mode	模式
+Input	输入，原料
+Output	输出，产物
+Redstone Signal	红石信号
+Modifier（TiC系）	强化
+Rotational Force（Create）	旋转力
+Energy（IC系，电）	电量
+Energy	能量
+Tick（名词）	刻
+Stack（量词）	组
+Stack（动词）	堆叠
+Bug	漏洞
+Blockstate	方块状态
+TileEntity/Block Entity	(?)TileEntity/方块实体值
+Tooltip	提示文本
+Forge Energy/Forge Unit/Forge Power（任何指代 `net.minecraftforge.energy` 的名称）	FE能量（注：没有空格）
+Resource Pack	资源包
+Data Pack	数据包
+Texture Pack	纹理包
+Loot table	战利品表
+Splash	闪烁标语
