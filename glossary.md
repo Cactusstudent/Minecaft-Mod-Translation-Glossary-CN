@@ -502,7 +502,6 @@
 - Ingo Gauge：材料量器
 
 # BYG 1.19 生物群系
-以下是以md格式呈现的转换结果，按照"-英文: 中文"的格式：
 - Allium Fields: 绒球葱原野
 - Amaranth Fields: 苋菜花原野
 - Araucaria Savanna: 南洋杉热带草原
