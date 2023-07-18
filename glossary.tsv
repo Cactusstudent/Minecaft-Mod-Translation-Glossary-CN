@@ -5,12 +5,15 @@ Shaped Recipe	有序配方
 Shapeless	无序
 Shapeless Crafting	无序合成
 Shapeless Recipe	无序配方
+Waterlogging	含水
 Recipe	配方
 Crafting	合成
 Smelt（概括）	烧炼
 Smelt（矿物）	冶炼
 Smelt（普通）	烧制
 Smelt（食物）	烹饪
+Breaking/Digging/Mining/Punching	挖掘
+Digging Speed	挖掘速度
 Breaking	破坏
 Breeding	繁殖
 Brewing	酿造
@@ -266,3 +269,150 @@ Arrow of <>	<>之箭
 Potion	药水
 Splash	喷溅型
 Lingering	滞留型
+Mod/MOD	Mod/模组
+Forge	Forge
+Fabric	Fabric
+Quilt	Quilt
+LiteLoader	LiteLoader
+Rift	Rift
+Add-on	附加包
+Creative	创造
+Basic	基础
+Hardened	硬化
+Reinforced	强化
+Resonant	谐振
+Augment	拓展组件
+Capacitor	电容
+Schematic	图纸
+Florb	流体球
+Servo	伺服器
+Satchel	背包
+Energy Cell	能量单元
+Machine Frame	机器框架
+Energy Cell Frame	能量单元框架
+Rockwool	石棉
+Sponge	海绵
+Strongbox	保险箱
+Workbench	工作台
+Invar	殷钢
+Electrum	琥珀金
+Redstone Flux	RF
+Aura	灵气
+Arcane	奥术
+Golem	傀儡
+Thaumium/Thaumic	神秘
+Thaumaturgy	神秘学
+Alchemy	炼金术
+Artifice	炼化学
+Golemancy	傀儡学
+Eldritch	邪术学
+Primal	元始
+Taint	腐化
+Aspect	要素
+Eldritch	邪术
+Cultist	血腥
+Node	节点
+Flux	咒波
+Amulet	护身符
+Ring	指环
+Belt	腰带
+Wand	法杖
+Scepter	权杖
+Staff	手杖
+Wand Focus	法杖核心
+Cap	杖端
+Rod	杖柄
+Staff Core	杖芯
+Seal	印记
+Control Seal	操控印记
+Warp	扭曲
+Cast	铸模
+Pattern	模具
+Repair Kit	修补件
+Pick	镐头
+Small Axe Head	小型斧刃
+Small Blade	小型剑刃
+Sign Head	牌板
+Bow Limb	弓臂
+Hammer Head	锤头
+Board Axe Head	板斧刃
+Board Blade	宽刃
+Tool Binding	绑定结
+Round Plate	圆板
+Large Plate	大板
+Bowstring	弓弦
+Tool Handle	工具手柄
+Tough Handle	坚韧手柄
+Bow Grip	弓把
+Blazing Blood	烈焰血
+Blood	血
+Earth Slime	黏液
+Sky Slime	碧空黏液
+Magma	岩浆
+Ender Slime	末影黏液
+Ichor	灵浆
+Sling	弹弓
+Piggybackpack	肩驮架
+Tinker Station	工匠站
+Crafting Station	工作站
+Tinker's Anvil	工匠砧
+Part Builder	部件制造台
+Modifier Worktable	强化调配台
+Part Chest	部件箱
+Tinker's Chest	工匠箱
+Cast Chest	铸模箱
+Pickaxe	镐
+Sledge Hammer	大锤
+Vein Hammer	矿脉锤
+Pickadze	凿石锹
+Board Axe	板斧
+Kama	短刃镰
+Scythe	镰刀
+Sword	剑
+Cleaver	劈刀
+Crossbow	弩
+Longbow	长弓
+Flint And Brick	焦砖打火石
+Staff	手杖
+Crystalshot	水晶镞
+Slime Dirt	黏液泥土
+Slime Grass	黏液草方块
+Greenheart	绿心
+Skyroot	天根
+Bloodshroom	血菌
+Necrotic Bone	噬生之骨
+Seared Stone	焦黑石
+Scorched Stone	焦褐石
+Slimewood	黏木
+Blood Bone	血之骨
+Rose Gold	玫瑰金
+Slimesteel	黏钢
+Nahuatl	纳瓦特尔
+Amethyst Bronze	紫水晶青铜
+Pig Iron	生铁
+Darkthread	黑耀丝线
+Cobalt	钴
+Manyullyn	玛玉灵
+Hepatizon	黑色科林斯青铜
+Queen Slime	皇后史莱姆
+Blazing Bone	烈焰之骨
+Soulsteel	魂钢
+Ancient Hide	远古兽皮
+Knightsteel	骑士史莱姆
+Whitestone	白石
+Necronium	辐射之骨
+Plated Slimewood	复合黏木
+Seared Heater	焦黑加热器
+Smeltery Controller	冶炼炉控制器
+Drain	排液孔
+Duct	输导孔
+Chute	滑槽
+Seared Melter	焦黑熔化炉
+Basin	铸造盆
+Table	铸件台
+Channel	浇注道
+Faucet	浇注口
+Fuel Tank	燃料储罐
+Fuel Gauge	材料量器
+Ingot Tank	材料储罐
+Ingo Gauge	材料量器

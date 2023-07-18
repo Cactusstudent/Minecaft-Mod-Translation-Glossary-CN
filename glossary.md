@@ -20,13 +20,15 @@
 - Shapeless：无序
 	- Shapeless Crafting：无序合成
 	- Shapeless Recipe：无序配方
+- Waterlogging：含水
 - Recipe：配方
 - Crafting：合成
 - Smelt（概括）：烧炼
 - Smelt（矿物）：冶炼
 - Smelt（普通）：烧制
 - Smelt（食物）：烹饪
-- Breaking：破坏
+- Breaking/Digging/Mining/Punching：挖掘
+- Digging Speed：挖掘速度
 - Breeding：繁殖
 - Brewing：酿造
 - Farming：耕种
@@ -296,6 +298,18 @@
 	- Splash：喷溅型
 	- Lingering：滞留型
 
+## 杂项
+- Mod/MOD：Mod/模组
+- Forge：Forge
+- Fabric：Fabric
+- Quilt：Quilt
+- LiteLoader：LiteLoader
+- Rift：Rift
+- Add-on：附加包
+
+## 常见树种
+
+
 ## TE系列 1.12
 
 - Creative：创造
@@ -395,4 +409,94 @@
 - Hot Frying Oil：热煎炸油
 - Platinum Group Sludge：铂系金属沉积泥
 
-## WIP
+## TiC3 1.18
+- Cast：铸模
+- Pattern：模具
+- Repair Kit：修补件
+- Pick：镐头
+- Small Axe Head：小型斧刃
+- Small Blade：小型剑刃
+- Sign Head：牌板
+- Bow Limb：弓臂
+- Hammer Head：锤头
+- Board Axe Head：板斧刃
+- Board Blade：宽刃
+- Tool Binding：绑定结
+- Round Plate：圆板
+- Large Plate：大板
+- Bowstring：弓弦
+- Tool Handle：工具手柄
+- Tough Handle：坚韧手柄
+- Bow Grip：弓把
+- Blazing Blood：烈焰血
+- Blood：血
+- Earth Slime：黏液
+- Sky Slime：碧空黏液
+- Magma：岩浆
+- Ender Slime：末影黏液
+- Ichor：灵浆
+- Sling：弹弓
+- Piggybackpack：肩驮架
+- Tinker Station：工匠站
+- Crafting Station：工作站
+- Tinker's Anvil：工匠砧
+- Part Builder：部件制造台
+- Modifier Worktable：强化调配台
+- Part Chest：部件箱
+- Tinker's Chest：工匠箱
+- Cast Chest：铸模箱
+- Pickaxe：镐
+- Sledge Hammer：大锤
+- Vein Hammer：矿脉锤
+- Pickadze：凿石锹
+- Board Axe：板斧
+- Kama：短刃镰
+- Scythe：镰刀
+- Sword：剑
+- Cleaver：劈刀
+- Crossbow：弩
+- Longbow：长弓
+- Flint And Brick：焦砖打火石
+- Staff：手杖
+- Crystalshot：水晶镞
+- Slime Dirt：黏液泥土
+- Slime Grass：黏液草方块
+- Greenheart：绿心
+- Skyroot：天根
+- Bloodshroom：血菌
+- Necrotic Bone：噬生之骨
+- Seared Stone：焦黑石
+- Scorched Stone：焦褐石
+- Slimewood：黏木
+- Blood Bone：血之骨
+- Rose Gold：玫瑰金
+- Slimesteel：黏钢
+- Nahuatl：纳瓦特尔
+- Amethyst Bronze：紫水晶青铜
+- Pig Iron：生铁
+- Darkthread：黑耀丝线
+- Cobalt：钴
+- Manyullyn：玛玉灵
+- Hepatizon：黑色科林斯青铜
+- Queen Slime：皇后史莱姆
+- Blazing Bone：烈焰之骨
+- Soulsteel：魂钢
+- Ancient Hide：远古兽皮
+- Knightsteel：骑士史莱姆
+- Whitestone：白石
+- Necronium：辐射之骨
+- Plated Slimewood：复合黏木
+- Seared Heater：焦黑加热器
+- Smeltery Controller：冶炼炉控制器
+- Drain：排液孔
+- Duct：输导孔
+- Chute：滑槽
+- Seared Melter：焦黑熔化炉
+- Basin：铸造盆
+- Table：铸件台
+- Channel：浇注道
+- Faucet：浇注口
+- Fuel Tank：燃料储罐
+- Fuel Gauge：材料量器
+- Ingot Tank：材料储罐
+- Ingo Gauge：材料量器
