@@ -110,3 +110,159 @@ Data Pack	数据包
 Texture Pack	纹理包
 Loot table	战利品表
 Splash	闪烁标语
+Add	添加
+Delete	删除
+Remove	移除
+Click	点击
+Right Click	右击
+Activate/Active	激活
+Deactivate/Inactive	禁用
+Enable（选项）	启用
+Disable（选项）	禁用
+Enable（其它）	开启
+Disable（其它）	关闭
+Toggle	切换，激活
+Allow	允许
+True	是
+False	否
+Always	总是
+Only	仅
+Back	返回
+Return	返回
+Pick Up	拾取
+Configure	配置
+Wear（头盔、帽子）	戴
+Wear（其它装备）	穿
+Done	完成
+Preset	预设
+Black	黑色
+Red	红色
+Green	绿色
+Brown	棕色
+Blue	蓝色
+Purple	紫色
+Cyan	青色
+Light Gray	淡灰色
+Gray	灰色
+Pink	粉红色
+Lime	黄绿色
+Yellow	黄色
+Light Blue	淡蓝色
+Magenta	品红色
+Orange	橙色
+White	白色
+Warped	诡异
+Warped <>	诡异木<>
+Crimson	绯红
+Crimson <>	绯红木<>
+Lava	熔岩（在1.10中译名已经改为“熔岩”而不是“岩浆”）
+Steam	蒸汽
+Ender	末影
+Portable	便携
+Sapling	树苗
+Leaf	树叶
+Leaves	树叶
+Wood	木
+Wood Planks	木板
+Slab	台阶
+Stairs	楼梯
+Door	门
+Boat	船
+Fence	栅栏
+Fence Gate	栅栏门
+Brick	砖，砖块
+Smooth	平滑
+Chiseled	雕纹（在1.19.3中译名已经改为“雕纹”而不是“錾质”）
+Block	块
+Ingot	锭
+Ore	矿石
+Nugget	粒
+Shard	碎片
+Fragment	残片
+Cable	线缆
+Wire	导线
+Disc	唱片
+Chest	箱，箱子
+Dust	粉
+Purified	纯净的
+Crushed	粉碎的
+Impure	含杂
+Centrifuged	离心
+Tiny Pile of	小撮
+Small Pile of	小堆
+Pile of	一堆
+Cell/Unit（流体容器）	单元
+Cell（核燃料）	棒
+Bucket	桶
+Plate	板
+Gear	齿轮
+Coin	币
+Rune	符文
+Helmet	头盔
+Chestplate	胸甲
+Leggings	护腿
+Boots	靴子
+Cap	帽子
+Tunic	外套
+Pants	裤子
+Sword	剑
+Shovel/Spade	锹
+Pickaxe	镐
+Axe/Ax	斧
+Hoe	锄
+Saw	锯
+Bow	弓
+Wrench	扳手
+Hammer	锤
+Soft Hammer	软锤
+File	锉刀
+Crowbar	撬棍
+Screwdriver	螺丝刀
+Mortar	臼
+Chisel	凿
+Paxel	镐尖斧
+AIOT	全能工具/AIOT
+Broadsword	大剑
+Longsword	长剑
+Rapier	西洋剑
+Dagger	匕首
+Lumber Axe	伐木斧
+Mattock	鹤嘴锄
+Wire Cutter	剪线钳
+Scoop	捕蜂网
+Branch Cutter	剪枝工具
+Universal Spade	工兵铲
+Knife	刀
+Butchery Knife	屠刀
+Sense/Scythe	镰刀
+Plow	除雪锹
+Plunger	搋
+Rolling Pin	擀面杖
+Drill（用电工具）	电钻
+Chainsaw	电锯
+JackHammer	凿岩锤
+Drill（物品，不用电工具）	钻头
+Ring	戒指，戒，指环
+Seeds	种子
+Shears	剪刀
+Casing/Item Casing/Hull	外壳
+Circuit Board/Board	电路板
+Circuit	电路
+Orb	球，宝珠
+Machine（后缀）	机
+Machine（概括）	机械
+Generator（机械，产电）	发电机
+Generator（机械，产其它能量）	发生器
+Turbine	涡轮
+Motor	马达
+Crystal	水晶
+Coil	线圈
+Tank（储存流体容器，物品或方块）	储罐
+Tank（机器内部缓存）	流体/气体/液体缓存（视语境）
+Tank（其它意思，如鱼缸，或者能开炮的那种等）	<根据语境>
+Ritual	仪式
+Arrow	箭
+Arrow of <>	<>之箭
+Potion	药水
+Splash	喷溅型
+Lingering	滞留型
