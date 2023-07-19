@@ -42,6 +42,13 @@
 - Experience Point/EXP/XP：经验值
 - Experience：经验
 - Oxygen/Air：氧气值
+- Hunger：饥饿
+- Hunger Value：饥饿值
+- Saturation：饱和度
+- Exhaustion：消耗度
+- Health：生命
+- Armor：护甲值
+- Armor Toughness：盔甲韧性
 - Ore Dictionary(OreDict)：矿物词典
 - Coordinates：坐标
 - Tag：标签
@@ -67,6 +74,7 @@
 - Block：方块
 - Item：物品
 - Tools：工具
+- Armor：盔甲
 - GUI/Gui：GUI
 - HUD：HUD
 - Creative Inventory：创造模式物品栏
@@ -274,6 +282,7 @@
 - JackHammer：凿岩锤
 - Drill（物品，不用电工具）：钻头
 - Ring：戒指，戒，指环
+- Backpack：背包
 - Seeds：种子
 - Shears：剪刀
 - Casing/Item Casing/Hull：外壳
@@ -412,6 +421,9 @@
 ## TiC3 1.18
 - Cast：铸模
 - Pattern：模具
+- Sand Cast：沙子铸模
+- Red Sand Cast：红沙铸模
+- Gold Cast：金质铸模
 - Repair Kit：修补件
 - Pick：镐头
 - Small Axe Head：小型斧刃
@@ -500,6 +512,9 @@
 - Fuel Gauge：材料量器
 - Ingot Tank：材料储罐
 - Ingo Gauge：材料量器
+- Plate：镶板
+- Traveler：旅行者
+- Slimeskull：黏液头颅
 
 # BYG 1.19 生物群系
 - Allium Fields: 绒球葱原野
